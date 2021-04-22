@@ -1,5 +1,18 @@
 # Temporal Event Graph Schema Induction
+
+Table of Contents
+=================
+  * [Overview](#overview)
+  * [Data](#data)
+  * [Reference](#reference)
+
+## Overview
 Data and code for the paper ["Future is not One-dimensional: Complex Event Schema Induction via Graph Modeling"](https://arxiv.org/abs/2104.06344). The code will be released soon.
+
+<p align="center">
+  <img src="./overview.jpg" alt="Photo" style="width="100%;"/>
+</p>
+
 
 ## Data
 1. The Schema Learning Corpus is released by LDC (LDC2020E25), with human schema included. Please find the event graphs in `data/LDC_schema_corpus_ce_split`, which are extracted using [RESIN Information Extraction System](https://blender.cs.illinois.edu/paper/resin-phase1.pdf).
