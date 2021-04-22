@@ -10,7 +10,7 @@ Table of Contents
 Data and code for the paper ["Future is not One-dimensional: Complex Event Schema Induction via Graph Modeling"](https://arxiv.org/abs/2104.06344). The code will be released soon.
 
 <p align="center">
-  <img src="./overview.jpg" alt="Photo" style="width="100%;"/>
+  <img src="./overview.png" alt="Photo" style="width="100%;"/>
 </p>
 
 
