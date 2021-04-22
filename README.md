@@ -9,24 +9,10 @@ Data and code for the paper ["Future is not One-dimensional: Complex Event Schem
 ## Reference
 ```
 @article{li2021future,
-  author    = {Manling Li and
-               Sha Li and
-               Zhenhailong Wang and
-               Lifu Huang and
-               Kyunghyun Cho and
-               Heng Ji and
-               Jiawei Han and
-               Clare R. Voss},
-  title     = {Future is not One-dimensional: Graph Modeling based Complex Event
-               Schema Induction for Event Prediction},
-  journal   = {CoRR},
-  volume    = {abs/2104.06344},
+  author    = {Manling Li and Sha Li and Zhenhailong Wang and Lifu Huang and Kyunghyun Cho and Heng Ji and Jiawei Han and Clare R. Voss},
+  title     = {Future is not One-dimensional: Graph Modeling based Complex Event Schema Induction for Event Prediction},
+  journal   = {arXiv preprint arXiv:2104.06344},
   year      = {2021},
   url       = {https://arxiv.org/abs/2104.06344},
-  archivePrefix = {arXiv},
-  eprint    = {2104.06344},
-  timestamp = {Mon, 19 Apr 2021 16:45:47 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2104-06344.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
