@@ -17,7 +17,7 @@ Data and code for the paper ["Future is not One-dimensional: Complex Event Schem
 ## Data
 1. The Schema Learning Corpus is released by LDC (LDC2020E25), with human schema included. Please find the event graphs in `data/LDC_schema_corpus_ce_split`, which are extracted using [RESIN Information Extraction System](https://blender.cs.illinois.edu/paper/resin-phase1.pdf).
 
-2. Please find the Wikipedia IED corpus in `Wiki_IED_split` (event graphs) and `Wiki_IED_rawdata` (raw text). The human schemas are in `data/RESIN_schema`.
+2. Please find the Wikipedia IED corpus in `Wiki_IED_split.tgz` (event graphs) and `Wiki_IED_rawdata` (raw text). The human schemas are in `data/RESIN_schema`.
 
 ## Reference
 ```
